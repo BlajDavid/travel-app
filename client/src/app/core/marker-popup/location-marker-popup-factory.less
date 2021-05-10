@@ -1,0 +1,39 @@
+@import "src/assets/styles/variables.less";
+
+.popup-container {
+  width: 300px;
+  height: 150px;
+  padding: 5px;
+}
+
+.leaflet-popup-close-button {
+  margin: 10px;
+  width: 56px;
+  height: 54px;
+}
+
+
+.popup-header {
+  font-size: 25px;
+
+  .visited {
+    color: #6EA42D;
+  }
+
+  .to-visit {
+    color: #A51919;
+    text-underline-mode: dot;
+  }
+}
+
+.popup-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 50%;
+}
+
+.info-text {
+  font-size: 20px;
+  mso-ascii-font-family: @font_gotham;
+}

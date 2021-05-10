@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "locations-0",
+"crs": { "type": "name", "properties": { "name": "dav/mir/efi/timi/visited/1" } },
+"locations": [
+{ "type": "Visited", "city": "Orsova", "properties": { "locationId": "1" }, "geometry": { "coordinates": [ 44.725277, 22.396111 ] } },
+{ "type": "Visited", "city": "Drobeta Turnu Severin", "properties": { "locationId": "2" }, "geometry": { "coordinates": [ 44.63194, 22.65611 ] } },
+{ "type": "Visited", "city": "Alba Iulia", "properties": { "locationId": "3" }, "geometry": { "coordinates": [ 46.073272, 23.580489 ] } },
+{ "type": "Visited", "city": "Petrosani", "properties": { "locationId": "4" }, "geometry": { "coordinates": [ 45.408895, 23.3754027 ] } },
+{ "type": "Visited", "city": "Sibiu", "properties": { "locationId": "5" }, "geometry": { "coordinates": [ 45.798327, 24.125583 ] } },
+{ "type": "ToGo", "city": "Letea", "properties": { "locationId": "6" }, "geometry": { "coordinates": [ 45.2860244942556, 29.523610584792277 ] } },
+{ "type": "Visited", "city": "Castelul Huniazilor", "properties": { "locationId": "7" }, "geometry": { "coordinates": [ 45.74965821598696, 22.888625916351433 ] } },
+{ "type": "Visited", "city": "Straja", "properties": { "locationId": "8" }, "geometry": { "coordinates": [ 45.32287469553897, 23.238538635211363 ] } },
+{ "type": "Visited", "city": "Baile Herculane", "properties": { "locationId": "9" }, "geometry": { "coordinates": [ 44.868090115945684, 22.40860522186037 ] } },
+{ "type": "Visited", "city": "Portile de Fier", "properties": { "locationId": "10" }, "geometry": { "coordinates": [ 44.671936931108945, 22.5285746349746 ] } },
+{ "type": "ToGo", "city": "Rimetea", "properties": { "locationId": "11" }, "geometry": { "coordinates": [ 46.45315697213006, 23.56697216420963 ] } },
+{ "type": "ToGo", "city": "Pestera Ursilor", "properties": { "locationId": "12" }, "geometry": { "coordinates": [ 46.553993960482984, 22.569617096959117 ] } },
+{ "type": "ToGo", "city": "Sighisoara", "properties": { "locationId": "13" }, "geometry": { "coordinates": [ 46.2202716563383, 24.79353462445395 ] } },
+{ "type": "ToGo", "city": "Brasov", "properties": { "locationId": "14" }, "geometry": { "coordinates": [ 45.65355776020311, 25.609543967860716 ] } },
+{ "type": "ToGo", "city": "Pestera Ponicova", "properties": { "locationId": "15" }, "geometry": { "coordinates": [ 44.59981189674261, 22.252410141515565 ] } }
+]
+}
+
+
+

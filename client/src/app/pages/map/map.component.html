@@ -1,0 +1,11 @@
+<div class="map-container" >
+  <div class="map-frame">
+    <div leaflet
+         class="map"
+         [leafletOptions]="options"
+         [leafletLayer]="layer"
+         (leafletMapReady)="onMapReady($event)"
+         (leafletZoomChange)="onZoomChange($event)">
+    </div>
+  </div>
+</div>
